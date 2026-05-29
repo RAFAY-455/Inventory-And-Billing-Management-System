@@ -92,3 +92,13 @@ This project showcases a strong understanding of programming fundamentals, probl
 <p>
 It serves as a solid foundation for building more advanced applications, especially in software engineering and AI-related domains.
 </p>
+
+<hr>
+<h2>
+  Sreenshots
+</h2>
+<h3>Application Front Page</h3>
+<img src="Front-page%20.png"alt="Front Page" width="100%">
+
+<h3>Dashboard and Main page</h3>
+<img src="Main-page.png"alt="Main Page"width=100%>
